@@ -1,0 +1,7 @@
+﻿Erstellen gestartet...
+1>------ Erstellen gestartet: Projekt: ArraysPlakat, Konfiguration: Debug Any CPU ------
+1>C:\Users\chahine.d\source\repos\ArraysPlakat\ArraysPlakat\Program.cs(59,9,59,10): error CS1022: Typ- oder Namespacedefinition oder Dateiende erwartet.
+1>C:\Users\chahine.d\source\repos\ArraysPlakat\ArraysPlakat\Program.cs(64,5,64,6): error CS1022: Typ- oder Namespacedefinition oder Dateiende erwartet.
+1>C:\Users\chahine.d\source\repos\ArraysPlakat\ArraysPlakat\Program.cs(65,1,65,2): error CS1022: Typ- oder Namespacedefinition oder Dateiende erwartet.
+1>Die Erstellung des Projekts "ArraysPlakat.csproj" ist abgeschlossen -- FEHLER.
+========== Erstellen: 0 erfolgreich, 1 fehlerhaft, 0 aktuell, 0 übersprungen ==========
